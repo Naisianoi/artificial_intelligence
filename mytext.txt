@@ -1,0 +1,17 @@
+I hate the product!
+I will never buy it again!
+Worst experience yet!
+This is a bad product!
+
+I love the product!
+I will definitely buy it again!
+Excellent experience yet!
+This is a good product!
+
+Yesterday I went hiking!
+On the way up I hurt my knee! It was not good!
+We did not have alot of fun! Now I have some wounds and I am bleeding.
+I am also a little bit sad!
+But all in all it was a decent experience!
+
+/*change decent to great and the sentiment changes from -0.133 to 0.025*/
